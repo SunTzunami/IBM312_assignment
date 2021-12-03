@@ -1,6 +1,6 @@
 # IBM312_assignment
 
-Final Group Assignment of IBM 312 course
+Final Group Assignment of IBM 312 course. This repo has the source code for the study and all the plots used in the final manuscript.
 
 ## A study to measure the impact of some NBA players on their respective franchises
 
